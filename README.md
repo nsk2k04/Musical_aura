@@ -1,4 +1,4 @@
-# 🎵 Music Aura
+# 🎵 Musical Aura
 
 **Turn Any Sound Into a Living Visual Identity**
 
